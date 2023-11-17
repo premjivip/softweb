@@ -205,7 +205,7 @@ Publish the website in the given URL.
     <i class="fa fa-instagram"></i>
     <i class="fa fa-linkedin"></i>
   </div>
-  <p>Made By <i class="fa fa-heart-o"></i> NAGARAJ S</p>
+
 </section>
 
 <!--JAVASCRIPT for menu-->
